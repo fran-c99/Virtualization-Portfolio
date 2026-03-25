@@ -12,7 +12,7 @@ A Virtual Machine (VM) is an emulated computer where we can run different operat
 
 ## Guides
 
-1. <a href="https://github.com/fran-c99/Virtualization-Portfolio/blob/main/1.%20Ubuntu%20Live%20Server%20%26%20Ubuntu%20Desktop%20Installation.pdf">Ubuntu Live Server & Ubuntu Desktop Installation</a>
+1. <a href="https://github.com/fran-c99/Virtualization-Portfolio/blob/main/1.%20Ubuntu%20Live%20Server%20%26%20Ubuntu%20Desktop%20Installation.pdf">Ubuntu Live Server & Ubuntu Desktop Installation Guide</a>
 
 
 
